@@ -19,7 +19,9 @@ The designs are in JPG static format. Using JPGs will mean that you'll need to u
 Used basic HTML and CSS to fulfill the task
 
 
+## Result can be seen below on GitHub Pages
 
+![https://goglikooo.github.io/QR-code-component/]
 
 
 
