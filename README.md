@@ -21,7 +21,7 @@ Used basic HTML and CSS to fulfill the task
 
 ## Result can be seen below on GitHub Pages
 
-[!https://goglikooo.github.io/QR-code-component/]
+[Click here to see the page](https://goglikooo.github.io/QR-code-component/){:target="_blank"}
 
 
 
